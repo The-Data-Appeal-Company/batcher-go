@@ -1,4 +1,4 @@
-module github.com/GaruGaru/batcher-go
+module github.com/The-Data-Appeal-Company/batcher-go
 
 go 1.14
 

@@ -2,6 +2,9 @@
 
 Fast, thread safe batcher 
 
+### Features 
+
+
 ### Usage 
 
 ```go
